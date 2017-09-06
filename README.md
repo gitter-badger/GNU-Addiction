@@ -8,9 +8,9 @@
 
 [**cmus**](https://github.com/TitanHero/cmus)
 
-[**hero_theme**](https://github.com/TitanHero/hero_theme)*(Theme for cmus)*
+[**hero_theme**](https://github.com/TitanHero/hero_theme) *(Theme for cmus)*
 
-[**prompt**](data/prompt_config)
+[**prompt**](data/prompt_config) *(Prompt style of Parrot OS)*
 
 
 (-‿◕)
