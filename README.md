@@ -1,12 +1,12 @@
 # (+_+) <----✰ ☠GNU☠Adiction☠✰ ----> (☻ܫ☻)
  
- **✰Perfect shuffle✰**
+### *✰Perfect shuffle✰*
 
-background image 
+[**background image**](https://razgriz12991.deviantart.com/art/Vocaloid-Wallpaper-279294938) 
 
-Terminator
+[**Terminator**](https://launchpad.net/terminator)
 
-cmus
+[**cmus**](https://github.com/TitanHero/cmus)
 
 promt
 
