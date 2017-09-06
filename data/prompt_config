@@ -1,4 +1,4 @@
-### For config this promt only replace this part from your default part in .bashrc file
+### For config this prompt only replace this part from your default part in .bashrc file
 ### This promnt is the same that prompt of parrot OS.
 
 force_color_prompt=yes
