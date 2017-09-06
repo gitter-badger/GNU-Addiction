@@ -1,4 +1,4 @@
-# (+_+) <----✰ ☠GNU☠Adiction☠✰ ----> (☻ܫ☻)
+# (+_+) <----✰ ☠GNU☠Addiction☠✰ ----> (☻ܫ☻)
  
 ### *✰Perfect shuffle✰*
 
@@ -8,7 +8,10 @@
 
 [**cmus**](https://github.com/TitanHero/cmus)
 
-promt
+[**hero_theme**](https://github.com/TitanHero/hero_theme)*(Theme for cmus)*
+
+[**prompt**](data/prompt_config)
+
 
 (-‿◕)
 
