@@ -1,3 +1,6 @@
+### For config this promt only replace this part from your default part in .bashrc file
+### This promnt is the same that promnt of parrot OS
+
 force_color_prompt=yes
 
 if [ -n "$force_color_prompt" ]; then
