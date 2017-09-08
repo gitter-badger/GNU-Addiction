@@ -46,7 +46,7 @@
 Install [ccat](https://github.com/jingweno/ccat)  and then configure your favorite output colors or maybe you want to use my custom color config(screenshots) in that case run this script :(◕‿-)
 
 Note:
-*This configure my custom syntax highlighting with an alias over the same "ccat" command and write that alias config to .bashrc in the last line, for set by default.*
+*This configure my custom syntax highlighting with an alias over the same "ccat" command and write that alias config to `.bashrc` in the last line, for set by default.*
 
 ```shell
 $ echo "alias ccat='ccat -G String=_white_ -G Keyword=_yellow_ -G Plaintext=green -G Punctuation=fuscia -G Decimal=red'" >> ~/.bashrc && source ~/.bashrc
