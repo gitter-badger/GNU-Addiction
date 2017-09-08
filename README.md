@@ -38,16 +38,20 @@
 
 =
 
-### Customize your cat output syntax with colors  (*╭╮*)
+### Customize your cat output syntax with colors  (\*╭╮\*)
 
 
 ![imageccat](images/ccatscreen1.png)
+
 **(★╭╮★)**
+
 ![imageccat1](images/ccatscreen2.png)
+
 **(❤╭╮❤)**
+
 ![imageccat2](images/ccatscreen3.png)
 
-### **(∩▂∩)** ### <(
+### **(∩▂∩)** 
 
 
 
