@@ -33,14 +33,12 @@
 
 ![imagefunny](images/pro.jpg)
 
-
-
-
-
+""
+""
 
 # Colorized cat syntax highlighting using [**ccat**](https://github.com/jingweno/ccat)  (◑‿◐)
 
-=
+""
 
 ### Customize your cat output syntax with colors  (\*╭╮\*)
 
