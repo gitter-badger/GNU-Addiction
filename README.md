@@ -1,4 +1,6 @@
 # (+_+) <----✰ ☠GNU☠Addiction☠✰ ----> (☻ܫ☻)
+
+[![Join the chat at https://gitter.im/GNU-Addiction/Lobby](https://badges.gitter.im/GNU-Addiction/Lobby.svg)](https://gitter.im/GNU-Addiction/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  
 ### *✰Perfect shuffle✰*
 
